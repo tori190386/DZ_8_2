@@ -2,4 +2,4 @@
 1. Создать адаптивный дизайн на основе двух изображений, в папке. Тексты находятся в файле text from site.
 2. Используя медиазапросы перестройте сайт при уменьшении ширины экрана, из трехколоночной структуры, в одну колонку. 
 ![rezultat](https://github.com/tori190386/DZ_8_2/blob/master/img/1.PNG)
-![rezultat](https://github.com/tori190386/DZ_8_2/blob/master/img/1.PNG)
+![rezultat](https://github.com/tori190386/DZ_8_2/blob/master/img/2.PNG)
